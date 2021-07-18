@@ -113,13 +113,13 @@ h3 {
 	
 	</head>
 		
-	<h2><center><marquee behaviour="alternate">Student Record System</center></marquee></h2>
+	<h2><center><marquee behaviour="alternate">Student </center></marquee></h2>
 								        <div class="topnav">
 	<center>	
  
     <   <a class="active" a href='index.php'>LOGIN HERE</a>
 	 <a href='register.php'>NEW REGISTRATION</a>
-	
+	<a href='index2.php'>CLICK TO CHAT</a>
 </center>
 					
 	
